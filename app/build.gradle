@@ -44,5 +44,8 @@ dependencies {
     //Gson
     implementation 'com.squareup.retrofit2:converter-gson:2.7.1'
 
+    //Rx
+    implementation "io.reactivex.rxjava2:rxjava:2.2.13"
+
 
 }
